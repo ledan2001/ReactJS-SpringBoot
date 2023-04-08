@@ -1,10 +1,10 @@
-package com.coderscampus.AssignmentSubmissionApp;
+package com.codewitharjun.fullstackbackend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AssignmentSubmissionAppApplicationTests {
+class FullstackBackendApplicationTests {
 
 	@Test
 	void contextLoads() {

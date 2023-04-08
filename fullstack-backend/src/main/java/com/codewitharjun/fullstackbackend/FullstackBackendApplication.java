@@ -1,13 +1,13 @@
-package com.coderscampus.AssignmentSubmissionApp;
+package com.codewitharjun.fullstackbackend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AssignmentSubmissionAppApplication {
+public class FullstackBackendApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AssignmentSubmissionAppApplication.class, args);
+		SpringApplication.run(FullstackBackendApplication.class, args);
 	}
 
 }
